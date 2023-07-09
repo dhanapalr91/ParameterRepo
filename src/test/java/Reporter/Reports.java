@@ -15,15 +15,12 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
-import testngProject.Apple;
-
 public class Reports implements ITestListener {
 
 	public ExtentSparkReporter sparkReport;
 	public ExtentReports extent;
 	public ExtentTest test;
 	Logger log = LogManager.getLogger(Reports.class);
-	Apple ap = new Apple();
 	
 	public void onStart(ITestContext itc) {
 		String dateName = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
@@ -59,6 +56,12 @@ public class Reports implements ITestListener {
 
 	public void onFinish(ITestContext itc) {
 		extent.flush();
+	}
+
+	@Override
+	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
+		// TODO Auto-generated method stub
+		
 	}
 	
 	 
