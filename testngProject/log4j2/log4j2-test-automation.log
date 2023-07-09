@@ -1,0 +1,62 @@
+[INFO ] 2023-06-14 07:45:23.501 [main] Apple - Method one
+[WARN ] 2023-06-14 07:45:23.512 [main] Apple - Method one
+[ERROR] 2023-06-14 07:45:23.513 [main] Apple - Method one
+[FATAL] 2023-06-14 07:45:23.513 [main] Apple - Method one
+[INFO ] 2023-06-14 07:45:23.523 [main] Apple - Hello.. im in Debug method
+[INFO ] 2023-06-14 07:45:23.530 [main] Apple - Hello.. im in Error method
+[INFO ] 2023-06-14 07:45:23.537 [main] Apple - Hello.. im in Fatal method
+[INFO ] 2023-06-14 07:45:23.543 [main] Apple - Hello.. im in Info method
+[INFO ] 2023-06-14 07:45:23.548 [main] Apple - Hello.. im in Warn method
+[INFO ] 2023-06-14 07:48:34.107 [main] Apple - Method one
+[WARN ] 2023-06-14 07:48:34.113 [main] Apple - Method one
+[ERROR] 2023-06-14 07:48:34.113 [main] Apple - Method one
+[FATAL] 2023-06-14 07:48:34.114 [main] Apple - Method one
+[INFO ] 2023-06-14 07:49:14.678 [main] Apple - Method one
+[WARN ] 2023-06-14 07:49:14.684 [main] Apple - Method one
+[ERROR] 2023-06-14 07:49:14.684 [main] Apple - Method one
+[FATAL] 2023-06-14 07:49:14.684 [main] Apple - Method one
+[INFO ] 2023-06-14 07:49:14.694 [main] Apple - Hello.. im in Debug method
+[INFO ] 2023-06-14 07:49:14.703 [main] Apple - Hello.. im in Error method
+[INFO ] 2023-06-14 07:49:14.709 [main] Apple - Hello.. im in Fatal method
+[INFO ] 2023-06-14 07:49:14.716 [main] Apple - Hello.. im in Info method
+[INFO ] 2023-06-14 07:49:14.722 [main] Apple - Hello.. im in Warn method
+[INFO ] 2023-06-14 07:50:21.509 [main] Apple - Method one
+[WARN ] 2023-06-14 07:50:21.515 [main] Apple - Method one
+[ERROR] 2023-06-14 07:50:21.516 [main] Apple - Method one
+[FATAL] 2023-06-14 07:50:21.516 [main] Apple - Method one
+[INFO ] 2023-06-14 07:50:21.527 [main] Apple - Hello.. im in Debug method
+[INFO ] 2023-06-14 07:50:21.533 [main] Apple - Hello.. im in Error method
+[INFO ] 2023-06-14 07:50:21.540 [main] Apple - Hello.. im in Fatal method
+[INFO ] 2023-06-14 07:50:21.547 [main] Apple - Hello.. im in Info method
+[INFO ] 2023-06-14 07:50:21.555 [main] Apple - Hello.. im in Warn method
+[INFO ] 2023-06-14 07:51:52.960 [main] Apple - Method one
+[WARN ] 2023-06-14 07:51:52.968 [main] Apple - Method one
+[ERROR] 2023-06-14 07:51:52.968 [main] Apple - Method one
+[FATAL] 2023-06-14 07:51:52.968 [main] Apple - Method one
+[INFO ] 2023-06-14 07:51:52.979 [main] Apple - Hello.. im in Debug method
+[INFO ] 2023-06-14 07:51:52.986 [main] Apple - Hello.. im in Error method
+[INFO ] 2023-06-14 07:51:52.992 [main] Apple - Hello.. im in Fatal method
+[INFO ] 2023-06-14 07:51:52.997 [main] Apple - Hello.. im in Info method
+[INFO ] 2023-06-14 07:51:53.003 [main] Apple - Hello.. im in Warn method
+[INFO ] 2023-06-14 07:53:09.408 [main] Apple - Method one
+[WARN ] 2023-06-14 07:53:09.413 [main] Apple - Method one
+[ERROR] 2023-06-14 07:53:09.413 [main] Apple - Method one
+[FATAL] 2023-06-14 07:53:09.413 [main] Apple - Method one
+[INFO ] 2023-06-14 07:53:09.422 [main] Apple - Hello.. im in Debug method
+[INFO ] 2023-06-14 07:53:09.429 [main] Apple - Hello.. im in Error method
+[INFO ] 2023-06-14 07:53:09.436 [main] Apple - Hello.. im in Info method
+[INFO ] 2023-06-14 07:53:09.443 [main] Apple - Hello.. im in Warn method
+[INFO ] 2023-06-14 07:54:22.844 [main] Apple - Method one
+[WARN ] 2023-06-14 07:54:22.851 [main] Apple - Method one
+[ERROR] 2023-06-14 07:54:22.851 [main] Apple - Method one
+[FATAL] 2023-06-14 07:54:22.852 [main] Apple - Method one
+[INFO ] 2023-06-14 07:54:22.860 [main] Apple - Hello.. im in Debug method
+[INFO ] 2023-06-14 07:54:22.866 [main] Apple - Hello.. im in Info method
+[INFO ] 2023-06-14 07:54:22.871 [main] Apple - Hello.. im in Warn method
+[INFO ] 2023-06-14 09:04:11.790 [main] Apple - Method one
+[WARN ] 2023-06-14 09:04:11.796 [main] Apple - Method one
+[ERROR] 2023-06-14 09:04:11.796 [main] Apple - Method one
+[FATAL] 2023-06-14 09:04:11.797 [main] Apple - Method one
+[INFO ] 2023-06-14 09:04:11.805 [main] Apple - Hello.. im in Debug method
+[INFO ] 2023-06-14 09:04:11.811 [main] Apple - Hello.. im in Info method
+[INFO ] 2023-06-14 09:04:11.816 [main] Apple - Hello.. im in Warn method
